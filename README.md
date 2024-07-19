@@ -1,3 +1,0 @@
-Merge now!!!
-
-This is my new repo! Thanks...
